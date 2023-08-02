@@ -2,7 +2,7 @@
     "name": "Ipfs Gateways",
     "gateways": [
         "https://ipfs.thirdwebstorage.com/ipfs/",
-        "https://ipfs.w3s.link",
+        "https://ipfs.w3s.link/ipfs/",
         "https://gateway.ipfscdn.io/ipfs/",
         "https://cloudflare-ipfs.com/ipfs/",
         "https://ipfs.io/ipfs/",
